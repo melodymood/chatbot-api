@@ -1,2 +1,2 @@
 # chatbot-api
-CharGpt AI 问答助手
+ChatGpt AI 问答助手
